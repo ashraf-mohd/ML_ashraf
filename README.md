@@ -17,4 +17,6 @@ You will learn:
 ##  How to Run This Code
 
 1. *Clone this repository*:
-import libraries
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
